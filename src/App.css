@@ -1,0 +1,10 @@
+.slider_image{
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+    overflow: hidden;
+}
+
+.slider_input::placeholder{
+    color: #fff !important;
+}

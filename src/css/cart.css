@@ -1,0 +1,12 @@
+.cart{
+    height: 100vh !important;
+    width: 100% !important;
+    overflow: hidden !important;
+    overflow-y: scroll !important;
+}
+
+.table{
+    --bs-table-color: none !important;
+    --bs-table-bg: none !important;
+    background-color: transparent;
+}
